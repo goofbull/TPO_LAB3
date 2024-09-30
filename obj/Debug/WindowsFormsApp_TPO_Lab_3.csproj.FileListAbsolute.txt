@@ -1,0 +1,10 @@
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\obj\Debug\WindowsFormsApp_TPO_Lab_3.csproj.AssemblyReference.cache
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\obj\Debug\WindowsFormsApp_TPO_Lab_3.Form1.resources
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\obj\Debug\WindowsFormsApp_TPO_Lab_3.Properties.Resources.resources
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\obj\Debug\WindowsFormsApp_TPO_Lab_3.csproj.GenerateResource.cache
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\obj\Debug\WindowsFormsApp_TPO_Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\bin\Debug\WindowsFormsApp_TPO_Lab_3.exe.config
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\bin\Debug\WindowsFormsApp_TPO_Lab_3.exe
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\bin\Debug\WindowsFormsApp_TPO_Lab_3.pdb
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\obj\Debug\WindowsFormsApp_TPO_Lab_3.exe
+C:\Users\r00t\source\repos\WindowsFormsApp_TPO_Lab_3\obj\Debug\WindowsFormsApp_TPO_Lab_3.pdb
